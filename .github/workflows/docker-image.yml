@@ -22,3 +22,4 @@ jobs:
       run: docker push wr0903/logservice:latest
     - name: Logout dockerhub
       run: docker logout
+
